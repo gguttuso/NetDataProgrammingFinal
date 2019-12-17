@@ -1,0 +1,28 @@
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/Lesson 11 - Data Annotations/Northwind-Console-master/Northwind-Console/bin/Debug/NLog.config
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/Lesson 11 - Data Annotations/Northwind-Console-master/Northwind-Console/bin/Debug/Northwind-Console.exe.config
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/Lesson 11 - Data Annotations/Northwind-Console-master/Northwind-Console/bin/Debug/Northwind-Console.exe
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/Lesson 11 - Data Annotations/Northwind-Console-master/Northwind-Console/bin/Debug/Northwind-Console.pdb
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/Lesson 11 - Data Annotations/Northwind-Console-master/Northwind-Console/bin/Debug/EntityFramework.dll
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/Lesson 11 - Data Annotations/Northwind-Console-master/Northwind-Console/bin/Debug/EntityFramework.SqlServer.dll
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/Lesson 11 - Data Annotations/Northwind-Console-master/Northwind-Console/bin/Debug/NLog.dll
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/Lesson 11 - Data Annotations/Northwind-Console-master/Northwind-Console/bin/Debug/EntityFramework.xml
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/Lesson 11 - Data Annotations/Northwind-Console-master/Northwind-Console/bin/Debug/EntityFramework.SqlServer.xml
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/Lesson 11 - Data Annotations/Northwind-Console-master/Northwind-Console/bin/Debug/NLog.xml
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/Lesson 11 - Data Annotations/Northwind-Console-master/Northwind-Console/obj/x86/Debug/Northwind-Console.csprojAssemblyReference.cache
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/Lesson 11 - Data Annotations/Northwind-Console-master/Northwind-Console/obj/x86/Debug/Northwind-Console.csproj.CopyComplete
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/Lesson 11 - Data Annotations/Northwind-Console-master/Northwind-Console/obj/x86/Debug/Northwind-Console.exe
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/Lesson 11 - Data Annotations/Northwind-Console-master/Northwind-Console/obj/x86/Debug/Northwind-Console.pdb
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/_Final Project/Northwind-Console-master/Northwind-Console/bin/Debug/NLog.config
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/_Final Project/Northwind-Console-master/Northwind-Console/bin/Debug/Northwind-Console.exe.config
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/_Final Project/Northwind-Console-master/Northwind-Console/bin/Debug/Northwind-Console.exe
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/_Final Project/Northwind-Console-master/Northwind-Console/bin/Debug/Northwind-Console.pdb
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/_Final Project/Northwind-Console-master/Northwind-Console/bin/Debug/EntityFramework.dll
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/_Final Project/Northwind-Console-master/Northwind-Console/bin/Debug/EntityFramework.SqlServer.dll
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/_Final Project/Northwind-Console-master/Northwind-Console/bin/Debug/NLog.dll
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/_Final Project/Northwind-Console-master/Northwind-Console/bin/Debug/EntityFramework.xml
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/_Final Project/Northwind-Console-master/Northwind-Console/bin/Debug/EntityFramework.SqlServer.xml
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/_Final Project/Northwind-Console-master/Northwind-Console/bin/Debug/NLog.xml
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/_Final Project/Northwind-Console-master/Northwind-Console/obj/x86/Debug/Northwind-Console.csprojAssemblyReference.cache
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/_Final Project/Northwind-Console-master/Northwind-Console/obj/x86/Debug/Northwind-Console.csproj.CopyComplete
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/_Final Project/Northwind-Console-master/Northwind-Console/obj/x86/Debug/Northwind-Console.exe
+/Users/Brie/Documents/WCTC/Fall 2019/Net Database Programming/_Final Project/Northwind-Console-master/Northwind-Console/obj/x86/Debug/Northwind-Console.pdb

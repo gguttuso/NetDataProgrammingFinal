@@ -1,0 +1,295 @@
+2019-11-04 18:48:34.5437|INFO|NorthwindConsole.MainClass|Program started
+2019-11-04 18:49:08.1883|INFO|NorthwindConsole.MainClass|Option 2 selected
+2019-11-04 18:50:17.6863|ERROR|NorthwindConsole.MainClass|Snix_Connect (provider: SNI_PN7, error: 40 - SNI_ERROR_40)
+Snix_Connect (provider: SNI_PN7, error: 40 - SNI_ERROR_40)
+2019-11-04 18:50:17.6863|INFO|NorthwindConsole.MainClass|Program ended
+2019-11-04 19:23:02.9759|INFO|NorthwindConsole.MainClass|Program started
+2019-11-04 19:23:08.3969|INFO|NorthwindConsole.MainClass|Option 2 selected
+2019-11-04 19:24:18.4194|ERROR|NorthwindConsole.MainClass|Snix_Connect (provider: SNI_PN7, error: 40 - SNI_ERROR_40)
+Snix_Connect (provider: SNI_PN7, error: 40 - SNI_ERROR_40)
+2019-11-04 19:24:18.4218|INFO|NorthwindConsole.MainClass|Program ended
+2019-11-06 14:51:58.9987|INFO|NorthwindConsole.MainClass|Program started
+2019-11-06 14:52:17.1971|INFO|NorthwindConsole.MainClass|Program started
+2019-11-06 14:52:23.2075|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-11-06 14:53:13.9805|INFO|NorthwindConsole.MainClass|Program started
+2019-11-06 14:53:18.6258|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-11-06 14:53:53.6469|INFO|NorthwindConsole.MainClass|Program started
+2019-11-06 14:53:56.3033|INFO|NorthwindConsole.MainClass|Option 2 selected
+2019-11-06 14:54:33.8181|INFO|NorthwindConsole.MainClass|Option  selected
+2019-11-06 14:56:00.3480|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-11-06 14:56:02.9786|INFO|NorthwindConsole.MainClass|Option  selected
+2019-11-06 14:56:04.1730|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-11-06 15:06:54.0308|INFO|NorthwindConsole.MainClass|Program started
+2019-11-06 15:06:56.1193|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-11-06 15:07:10.2789|INFO|NorthwindConsole.MainClass|Option 2 selected
+2019-11-06 15:07:17.3931|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-11-06 15:07:28.3852|INFO|NorthwindConsole.MainClass|Option 3 selected
+2019-11-06 15:07:34.3814|INFO|NorthwindConsole.MainClass|CategoryId 2 selected
+2019-11-06 15:07:40.2429|INFO|NorthwindConsole.MainClass|Option 4 selected
+2019-11-11 18:02:32.8352|INFO|NorthwindConsole.MainClass|Program started
+2019-11-11 18:02:34.8268|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-11-11 18:02:40.8794|INFO|NorthwindConsole.MainClass|Option 2 selected
+2019-11-11 18:02:52.5120|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-11-11 18:02:57.1132|INFO|NorthwindConsole.MainClass|Option 3 selected
+2019-11-11 18:02:58.7794|INFO|NorthwindConsole.MainClass|CategoryId 1 selected
+2019-11-11 18:03:02.3784|INFO|NorthwindConsole.MainClass|Option 4 selected
+2019-11-11 18:23:12.3691|INFO|NorthwindConsole.MainClass|Program started
+2019-11-11 18:23:13.8002|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-11-11 18:23:31.3410|INFO|NorthwindConsole.MainClass|Program started
+2019-11-11 18:23:33.0605|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-11-11 18:23:40.1941|INFO|NorthwindConsole.MainClass|Option 5 selected
+2019-11-11 18:23:43.0176|INFO|NorthwindConsole.MainClass|CategoryId 9 selected
+2019-11-11 18:23:45.3797|INFO|NorthwindConsole.MainClass|User entered Test2
+2019-11-11 18:23:47.1802|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-11-11 18:35:11.2044|INFO|NorthwindConsole.MainClass|Program started
+2019-11-11 18:35:15.5296|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-11-11 18:35:22.6170|INFO|NorthwindConsole.MainClass|Option 6 selected
+2019-11-11 18:35:25.5295|INFO|NorthwindConsole.MainClass|CategoryId 9 selected
+2019-11-11 18:35:27.1734|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-11-11 19:28:20.9723|INFO|NorthwindConsole.MainClass|Program started
+2019-11-11 19:48:30.6042|INFO|NorthwindConsole.MainClass|Program started
+2019-11-11 19:48:36.5384|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-11-11 19:56:42.1822|INFO|NorthwindConsole.MainClass|Program started
+2019-11-11 19:56:46.7395|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-11-11 19:56:51.1043|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-11-11 19:57:02.0957|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-11-11 19:57:03.9295|INFO|NorthwindConsole.MainClass|Option 2 selected
+2019-11-11 19:58:17.8601|INFO|NorthwindConsole.MainClass|Program started
+2019-11-11 19:58:22.0841|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-11-11 19:58:23.9855|INFO|NorthwindConsole.MainClass|Option 3 selected
+2019-11-11 19:58:43.7291|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-11-11 19:58:46.0354|INFO|NorthwindConsole.MainClass|Option 2 selected
+2019-12-09 18:13:47.7470|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 18:14:14.3555|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-09 18:14:30.0041|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-09 18:14:38.9834|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-09 18:14:44.3952|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-09 18:14:46.9032|INFO|NorthwindConsole.MainClass|Option 23 selected
+2019-12-09 18:14:52.0121|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-09 18:14:53.1144|INFO|NorthwindConsole.MainClass|Option 2 selected
+2019-12-09 18:14:56.3985|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-09 18:14:57.7610|INFO|NorthwindConsole.MainClass|Option 3 selected
+2019-12-09 18:15:03.5665|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-09 18:15:05.3105|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-09 18:15:08.8317|INFO|NorthwindConsole.MainClass|Option 8 selected
+2019-12-09 18:15:11.6104|INFO|NorthwindConsole.MainClass|Option 8 selected
+2019-12-09 18:16:21.0587|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 18:16:27.0472|INFO|NorthwindConsole.MainClass|Option 4 selected
+2019-12-09 18:16:36.5990|INFO|NorthwindConsole.MainClass|Option 5 selected
+2019-12-09 18:16:42.1910|INFO|NorthwindConsole.MainClass|CategoryId 1 selected
+2019-12-09 18:16:44.8348|INFO|NorthwindConsole.MainClass|User entered Test 2
+2019-12-09 18:16:51.7201|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-09 18:17:11.4426|INFO|NorthwindConsole.MainClass|Option 6 selected
+2019-12-09 18:17:13.6030|INFO|NorthwindConsole.MainClass|CategoryId 1 selected
+2019-12-09 18:17:13.6286|ERROR|NorthwindConsole.MainClass|An error occurred while updating the entries. See the inner exception for details.
+2019-12-09 18:17:13.6290|INFO|NorthwindConsole.MainClass|Program ended
+2019-12-09 18:17:36.0291|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 18:17:38.6922|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-09 18:17:48.9301|INFO|NorthwindConsole.MainClass|Option 6 selected
+2019-12-09 18:17:51.2142|INFO|NorthwindConsole.MainClass|CategoryId 1 selected
+2019-12-09 18:17:51.3187|ERROR|NorthwindConsole.MainClass|An error occurred while updating the entries. See the inner exception for details.
+2019-12-09 18:17:51.3187|INFO|NorthwindConsole.MainClass|Program ended
+2019-12-09 18:18:11.4202|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 18:18:14.1319|INFO|NorthwindConsole.MainClass|Option 6 selected
+2019-12-09 18:19:01.4690|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 18:19:03.8829|INFO|NorthwindConsole.MainClass|Option 6 selected
+2019-12-09 18:19:07.7870|INFO|NorthwindConsole.MainClass|CategoryId 1 selected
+2019-12-09 18:19:07.8933|ERROR|NorthwindConsole.MainClass|An error occurred while updating the entries. See the inner exception for details.
+2019-12-09 18:19:07.8933|INFO|NorthwindConsole.MainClass|Program ended
+2019-12-09 18:20:25.3981|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 18:20:59.8893|INFO|NorthwindConsole.MainClass|Option 6 selected
+2019-12-09 18:21:30.0527|INFO|NorthwindConsole.MainClass|CategoryId 1 selected
+2019-12-09 18:21:30.1571|ERROR|NorthwindConsole.MainClass|An error occurred while updating the entries. See the inner exception for details.
+2019-12-09 18:21:30.1575|INFO|NorthwindConsole.MainClass|Program ended
+2019-12-09 18:21:41.2216|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 18:21:43.5655|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-09 18:25:45.8872|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 18:26:37.5024|INFO|NorthwindConsole.MainClass|Option 8 selected
+2019-12-09 18:26:40.3714|INFO|NorthwindConsole.MainClass|Option 8 selected
+2019-12-09 18:26:49.4283|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 18:26:50.5758|INFO|NorthwindConsole.MainClass|Option 8 selected
+2019-12-09 18:27:15.9425|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 18:27:17.7005|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-09 18:42:51.3826|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 18:42:54.2718|INFO|NorthwindConsole.MainClass|Option 8 selected
+2019-12-09 18:43:20.3513|ERROR|NorthwindConsole.MainClass|Input string was not in a correct format.
+2019-12-09 18:43:20.3513|INFO|NorthwindConsole.MainClass|Program ended
+2019-12-09 18:44:00.5345|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 18:44:01.6861|INFO|NorthwindConsole.MainClass|Option 8 selected
+2019-12-09 18:44:34.4936|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-09 18:44:36.1470|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-09 18:44:50.0194|INFO|NorthwindConsole.MainClass|Option 9 selected
+2019-12-09 18:44:54.4182|INFO|NorthwindConsole.MainClass|Option 9 selected
+2019-12-09 18:46:19.3054|INFO|NorthwindConsole.MainClass|Option 4 selected
+2019-12-09 18:50:48.1204|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 18:50:50.4489|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-09 18:51:06.8751|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-09 18:52:02.2813|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 18:53:45.1396|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-09 18:54:26.0845|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 18:54:29.1865|INFO|NorthwindConsole.MainClass|Option 9 selected
+2019-12-09 18:55:12.7945|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 18:55:17.5083|INFO|NorthwindConsole.MainClass|Option 9 selected
+2019-12-09 18:56:16.5901|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 18:56:18.0263|INFO|NorthwindConsole.MainClass|Option 9 selected
+2019-12-09 19:02:33.5787|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 19:02:36.4682|INFO|NorthwindConsole.MainClass|Option 9 selected
+2019-12-09 19:02:43.8712|INFO|NorthwindConsole.MainClass|Product 43 selected
+2019-12-09 19:03:17.6716|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 19:03:18.8050|INFO|NorthwindConsole.MainClass|Option 9 selected
+2019-12-09 19:03:22.4952|INFO|NorthwindConsole.MainClass|Product 43 selected
+2019-12-09 19:04:23.8839|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 19:04:25.0271|INFO|NorthwindConsole.MainClass|Option 9 selected
+2019-12-09 19:04:28.6159|INFO|NorthwindConsole.MainClass|Product 41 selected
+2019-12-09 19:05:57.1903|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 19:06:00.3549|INFO|NorthwindConsole.MainClass|Option 5 selected
+2019-12-09 19:18:37.2569|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 19:18:40.1639|INFO|NorthwindConsole.MainClass|Option 10 selected
+2019-12-09 19:19:43.7841|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 19:19:44.9682|INFO|NorthwindConsole.MainClass|Option 10 selected
+2019-12-09 19:19:54.8917|INFO|NorthwindConsole.MainClass|ProductID 49 selected
+2019-12-09 19:20:17.1344|INFO|NorthwindConsole.MainClass|User entered Maxilaku_NEW
+2019-12-09 19:20:25.1446|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-09 19:20:26.5063|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-09 19:23:01.4668|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 19:23:03.5333|INFO|NorthwindConsole.MainClass|Option 11 selected
+2019-12-09 19:23:13.8167|INFO|NorthwindConsole.MainClass|ProductID 1001 selected
+2019-12-09 19:23:17.5066|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-09 19:23:19.0030|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-09 19:24:05.7425|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 19:24:06.7848|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-09 19:24:08.1014|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-09 19:24:38.8274|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 19:24:41.3135|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-09 19:24:42.1011|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-09 19:24:50.9216|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-09 19:24:52.3391|INFO|NorthwindConsole.MainClass|Option 2 selected
+2019-12-09 19:25:43.4087|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 19:25:44.9141|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-09 19:25:46.3656|INFO|NorthwindConsole.MainClass|Option 2 selected
+2019-12-09 19:25:55.4549|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-09 19:25:56.9973|INFO|NorthwindConsole.MainClass|Option 3 selected
+2019-12-09 19:33:14.6876|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 19:33:15.6835|INFO|NorthwindConsole.MainClass|Option 8 selected
+2019-12-09 19:33:54.1608|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-09 19:33:56.2536|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-09 19:34:02.0702|INFO|NorthwindConsole.MainClass|Option 9 selected
+2019-12-09 19:34:04.2192|INFO|NorthwindConsole.MainClass|Product 1002 selected
+2019-12-09 19:35:00.3985|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 19:35:05.0407|INFO|NorthwindConsole.MainClass|Option 9 selected
+2019-12-09 19:35:09.4398|INFO|NorthwindConsole.MainClass|Product 1002 selected
+2019-12-09 19:35:29.2996|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 19:35:30.4901|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-09 19:35:37.0155|INFO|NorthwindConsole.MainClass|Option 2 selected
+2019-12-09 19:35:50.8763|INFO|NorthwindConsole.MainClass|Option 3 selected
+2019-12-09 19:35:57.3575|INFO|NorthwindConsole.MainClass|CategoryId 1002 selected
+2019-12-09 19:36:01.8671|INFO|NorthwindConsole.MainClass|Option 3 selected
+2019-12-09 19:36:03.0147|INFO|NorthwindConsole.MainClass|CategoryId 2 selected
+2019-12-09 19:36:26.3149|INFO|NorthwindConsole.MainClass|Option 4 selected
+2019-12-09 19:36:31.3453|INFO|NorthwindConsole.MainClass|Option 5 selected
+2019-12-09 19:36:33.6520|INFO|NorthwindConsole.MainClass|CategoryId 1002 selected
+2019-12-09 19:36:37.2408|INFO|NorthwindConsole.MainClass|User entered This is a new one
+2019-12-09 19:36:42.0110|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-09 19:36:46.8716|INFO|NorthwindConsole.MainClass|Option 6 selected
+2019-12-09 19:36:49.0542|INFO|NorthwindConsole.MainClass|CategoryId 1002 selected
+2019-12-09 19:36:54.3756|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-09 19:36:56.4570|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-09 19:40:07.5400|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-09 19:40:47.4891|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 19:40:48.7403|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-09 19:41:19.5624|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 19:41:21.3565|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-09 19:41:38.2214|INFO|NorthwindConsole.MainClass|Option 8 selected
+2019-12-09 19:43:51.6434|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 19:43:55.3456|INFO|NorthwindConsole.MainClass|Option 8 selected
+2019-12-09 19:44:29.2555|INFO|NorthwindConsole.MainClass|Option 3 selected
+2019-12-09 19:44:31.3708|INFO|NorthwindConsole.MainClass|CategoryId 2 selected
+2019-12-09 19:44:53.6919|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-09 19:44:54.9973|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-09 19:44:59.1600|INFO|NorthwindConsole.MainClass|Option 9 selected
+2019-12-09 19:45:02.3214|INFO|NorthwindConsole.MainClass|Product 1003 selected
+2019-12-09 19:45:40.2074|INFO|NorthwindConsole.MainClass|Program started
+2019-12-09 19:45:56.3815|INFO|NorthwindConsole.MainClass|Option 8 selected
+2019-12-09 19:46:35.2385|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-09 19:46:36.6382|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-16 14:03:52.5902|INFO|NorthwindConsole.MainClass|Program started
+2019-12-16 14:03:53.9672|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-16 17:18:41.4322|INFO|NorthwindConsole.MainClass|Program started
+2019-12-16 17:18:43.8263|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-16 17:18:51.8578|INFO|NorthwindConsole.MainClass|Option 2 selected
+2019-12-16 17:19:01.4734|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-16 17:19:09.4975|INFO|NorthwindConsole.MainClass|Option 3 selected
+2019-12-16 17:19:11.9855|INFO|NorthwindConsole.Models.DisplayCatRelatedProd|CategoryId 2 selected
+2019-12-16 17:19:21.0496|INFO|NorthwindConsole.MainClass|Option 4 selected
+2019-12-16 17:19:26.5047|INFO|NorthwindConsole.MainClass|Option 5 selected
+2019-12-16 17:19:29.3207|INFO|NorthwindConsole.Models.EditCatName|CategoryId 2002 selected
+2019-12-16 17:19:32.6084|INFO|NorthwindConsole.Models.EditCatName|User entered Dessert
+2019-12-16 17:19:40.3511|INFO|NorthwindConsole.MainClass|Option 6 selected
+2019-12-16 17:19:41.6882|INFO|NorthwindConsole.Models.DeleteCategory|CategoryId 2002 selected
+2019-12-16 17:19:48.5755|INFO|NorthwindConsole.MainClass|Option 8 selected
+2019-12-16 17:20:05.0159|ERROR|NorthwindConsole.MainClass|String was not recognized as a valid Boolean.
+2019-12-16 17:20:05.0166|INFO|NorthwindConsole.MainClass|Program ended
+2019-12-16 17:20:13.1438|INFO|NorthwindConsole.MainClass|Program started
+2019-12-16 17:20:16.4225|INFO|NorthwindConsole.MainClass|Option 9 selected
+2019-12-16 17:20:25.7986|INFO|NorthwindConsole.Models.DisplaySpecificProduct|Product 1003 selected
+2019-12-16 17:20:30.6625|INFO|NorthwindConsole.MainClass|Option 10 selected
+2019-12-16 17:20:33.5183|INFO|NorthwindConsole.Models.EditProduct|ProductID 1004 selected
+2019-12-16 17:20:40.4941|INFO|NorthwindConsole.Models.EditProduct|User entered Test 4
+2019-12-16 17:20:43.7100|INFO|NorthwindConsole.MainClass|Option 11 selected
+2019-12-16 17:20:46.1899|INFO|NorthwindConsole.Models.DeleteProduct|ProductID 1004 selected
+2019-12-16 17:20:51.5495|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-16 17:20:54.2458|INFO|NorthwindConsole.Models.DisplayProducts|Option 1 selected
+2019-12-16 18:04:41.4906|INFO|NorthwindConsole.MainClass|Program started
+2019-12-16 18:05:14.9776|INFO|NorthwindConsole.MainClass|Program started
+2019-12-16 18:07:33.6835|INFO|NorthwindConsole.MainClass|Option 8 selected
+2019-12-16 18:07:41.8201|INFO|NorthwindConsole.MainClass|Program started
+2019-12-16 18:08:27.9695|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-16 18:08:29.9775|INFO|NorthwindConsole.Models.DisplayProducts|Option 1 selected
+2019-12-16 18:11:11.9557|INFO|NorthwindConsole.MainClass|Option 11 selected
+2019-12-16 18:11:15.5395|INFO|NorthwindConsole.Models.DeleteProduct|ProductID 1003 selected
+2019-12-16 18:11:31.5468|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-16 18:11:33.4507|INFO|NorthwindConsole.Models.DisplayProducts|Option 1 selected
+2019-12-16 18:11:59.2339|INFO|NorthwindConsole.MainClass|Option 11 selected
+2019-12-16 18:12:05.9296|INFO|NorthwindConsole.Models.DeleteProduct|ProductID 1002 selected
+2019-12-16 18:12:09.4493|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-16 18:12:10.8242|INFO|NorthwindConsole.Models.DisplayProducts|Option 1 selected
+2019-12-16 18:13:51.3260|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-16 18:25:21.4611|INFO|NorthwindConsole.MainClass|Option 10 selected
+2019-12-16 18:26:02.2918|INFO|NorthwindConsole.Models.EditProduct|ProductID 52 selected
+2019-12-16 18:26:12.4914|INFO|NorthwindConsole.MainClass|Program started
+2019-12-16 18:27:12.5453|INFO|NorthwindConsole.MainClass|Option 6 selected
+2019-12-16 18:27:19.7301|ERROR|NorthwindConsole.MainClass|Input string was not in a correct format.
+2019-12-16 18:27:19.7305|INFO|NorthwindConsole.MainClass|Program ended
+2019-12-16 18:27:26.6846|INFO|NorthwindConsole.MainClass|Program started
+2019-12-16 18:27:31.2793|INFO|NorthwindConsole.MainClass|Option 3 selected
+2019-12-16 18:27:37.7525|INFO|NorthwindConsole.Models.DisplayCatRelatedProd|CategoryId 10 selected
+2019-12-16 18:27:56.8684|INFO|NorthwindConsole.MainClass|Program started
+2019-12-16 18:29:06.1806|INFO|NorthwindConsole.MainClass|Option 4 selected
+2019-12-16 18:30:23.7299|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-16 18:30:51.0973|INFO|NorthwindConsole.Models.DisplayProducts|Option 1 selected
+2019-12-16 18:32:20.1085|INFO|NorthwindConsole.MainClass|Option 2 selected
+2019-12-16 18:32:48.9719|INFO|NorthwindConsole.MainClass|Option 8 selected
+2019-12-16 18:33:00.2440|ERROR|NorthwindConsole.MainClass|String was not recognized as a valid Boolean.
+2019-12-16 18:33:00.2440|INFO|NorthwindConsole.MainClass|Program ended
+2019-12-16 18:33:06.2179|INFO|NorthwindConsole.MainClass|Program started
+2019-12-16 18:33:11.5950|INFO|NorthwindConsole.MainClass|Option 6 selected
+2019-12-16 18:33:15.6749|INFO|NorthwindConsole.Models.DeleteCategory|CategoryId 2003 selected
+2019-12-16 18:33:22.3786|INFO|NorthwindConsole.MainClass|Option 11 selected
+2019-12-16 18:33:35.9158|ERROR|NorthwindConsole.MainClass|Input string was not in a correct format.
+2019-12-16 18:33:35.9158|INFO|NorthwindConsole.MainClass|Program ended
+2019-12-16 18:33:40.9785|INFO|NorthwindConsole.MainClass|Program started
+2019-12-16 18:33:51.0096|INFO|NorthwindConsole.MainClass|Option 2 selected
+2019-12-16 18:34:03.8891|INFO|NorthwindConsole.MainClass|Option 1 selected
+2019-12-16 18:34:13.1766|INFO|NorthwindConsole.MainClass|Option 2 selected
+2019-12-16 18:34:22.1366|INFO|NorthwindConsole.MainClass|Option 6 selected
+2019-12-16 18:34:25.7923|INFO|NorthwindConsole.Models.DeleteCategory|CategoryId 2004 selected
+2019-12-16 18:34:29.0241|INFO|NorthwindConsole.MainClass|Option 6 selected
+2019-12-16 18:34:30.8560|INFO|NorthwindConsole.Models.DeleteCategory|CategoryId 2005 selected
+2019-12-16 18:42:50.4944|INFO|NorthwindConsole.MainClass|Option 9 selected
+2019-12-16 18:43:29.8764|INFO|NorthwindConsole.MainClass|Program started
+2019-12-16 18:45:17.1034|INFO|NorthwindConsole.MainClass|Option 10 selected
+2019-12-16 18:45:25.8723|INFO|NorthwindConsole.Models.EditProduct|ProductID 14 selected
+2019-12-16 18:49:48.4403|INFO|NorthwindConsole.MainClass|Program started
+2019-12-16 19:21:45.9283|INFO|NorthwindConsole.MainClass|Option 7 selected
+2019-12-16 19:21:47.6241|INFO|NorthwindConsole.Models.DisplayProducts|Option 1 selected
+2019-12-16 19:22:15.4234|INFO|NorthwindConsole.MainClass|Option 2 selected
